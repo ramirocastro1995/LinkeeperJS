@@ -1,8 +1,8 @@
-# LinkeeperJS Chrome Extension
+# :star:LinkeeperJS Chrome Extension
 
 The LinkeeperJS Chrome extension allows you to save and organize your favorite links directly from your browser.
 
-## Features
+## :dart:Features
 
 - Save links with a single click
 - Organize links into customizable categories
@@ -10,13 +10,13 @@ The LinkeeperJS Chrome extension allows you to save and organize your favorite l
 - Import and export your link collection
 - Access your links from any device with Chrome installed
 
-## Installation
+## :dart:Installation
 
 1. Download the LinkeeperJS Chrome extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/linksjs/ehnifcacnaiaoalipnbpfioiajchgkac).
 2. Click on "Add to Chrome" to install the extension.
 3. Once installed, you'll see the LinkeeperJS icon in the Chrome toolbar.
 
-## Usage
+## :dart:Usage
 
 ### Saving Links
 
